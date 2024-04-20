@@ -1,3 +1,6 @@
+# Custom Blocklist for Media Providers
+
+# Channel 4
 ic.channel4.com
 fvc-p06.channel4.com
 monitor.channel4.com
