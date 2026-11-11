@@ -14,8 +14,8 @@ cdn.http.anno.channel4.com
 channel4.com.112.2o7.net
 channel4.com.sc.omtrdc.net
 channel4.com.ssl.sc.omtrdc.net
-2356e.v.fwmrm.net
-2a7e9.v.fwmrm.n
+# 2356e.v.fwmrm.net
+# 2a7e9.v.fwmrm.n
 p.videologygroup.com
 securecdn.videologygroup.com
 toots-a.akamaihd.net
